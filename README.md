@@ -8,9 +8,7 @@ O objetivo é transformar dados em **informações claras e úteis**, permitindo
 ```
 .
 ├── README.md                 # Descrição do projeto e instruções
-├── base.xlsx                 # Base de dados original
-├── modelo_dashboard.xlsx     # Layout modelo do dashboard
-└── dashboard_final.xlsx      # Dashboard final com dados atualizados
+└── dashboard.xlsx      # Dashboard 
 ```
 
 ## 📄 Dados Utilizados
@@ -48,5 +46,4 @@ O dashboard apresenta:
    - Substitua os dados na aba **B̳ases**
    - Atualize as tabelas dinâmicas e gráficos (clicando com o botão direito → **Atualizar**)
 
-## 📌 Autor
-Projeto desenvolvido por **Cristiane Fernanda da Silva Carvalho** para fins de prática e aprimoramento de habilidades em análise de dados no Excel.
+
