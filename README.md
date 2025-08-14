@@ -36,7 +36,7 @@ O dashboard apresenta:
 - **Power Query** (opcional): para limpeza e transformação de dados
 
 ## ▶️ Como Reproduzir
-1. Baixe o arquivo `dashboard_final.xlsx`
+1. Baixe o arquivo `dashboard.xlsx`
 2. Abra no Microsoft Excel (versão 2016 ou superior para melhor compatibilidade)
 3. Explore as abas:
    - **B̳ases**: contém os dados brutos
